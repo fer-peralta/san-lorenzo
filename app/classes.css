@@ -1,0 +1,27 @@
+@import "./variables.css";
+
+.bg-red {
+  background-color: var(--casla-red) !important;
+}
+
+.bg-blue {
+  background-color: var(--casla-blue) !important;
+}
+
+.text-red {
+  color: var(--casla-red) !important;
+}
+
+.text-blue {
+  color: var(--casla-blue) !important;
+}
+
+.btn-blue {
+  background-color: var(--casla-blue) !important;
+  color: rgb(242, 237, 237);
+}
+
+.btn-red {
+  background-color: var(--casla-red) !important;
+  color: rgb(242, 237, 237);
+}
